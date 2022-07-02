@@ -5,7 +5,7 @@ Classes:
     Colour
     Point
     Actor
-    Gems and Rocks
+    Gems and Rocks (Actor)
     Cast
 
     Director:
